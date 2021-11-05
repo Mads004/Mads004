@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mads004
+- 👋 Hi, I’m Mads
 - 👀 I’m interested in gaming and web development
 - 🌱 I’m currently learning javascript and MySQL
 - 💞️ I’m looking to collaborate on a website
